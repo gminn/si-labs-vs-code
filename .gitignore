@@ -1,0 +1,20 @@
+# Ignore VS code files except for helpful ones
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+
+# Compiled object files
+.slo
+.lo
+.o
+.object
+
+# Executables
+*.exe
+*.out
+*.app
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
