@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.makefile-tools",
+        "marus25.cortex-debug",
+        "cschlosser.doxdocgen",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
